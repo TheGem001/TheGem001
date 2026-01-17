@@ -76,7 +76,7 @@ I have committed to coding every single day. Watch this number grow!
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheGem001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Saqib's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheGem001&show_icons=true&theme=tokyonight&hide_border=true" alt="Saqib's Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGem001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
