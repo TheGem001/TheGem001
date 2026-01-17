@@ -22,10 +22,10 @@
 
 I am a Software Engineering student passionate about turning ideas into reality. My journey is defined by **dedication**—I am currently on a daily challenge to code and ship projects every single day.
 
-* 🔭 **Current Focus:** Mastering **Python** and exploring **Cybersecurity**.
+* 🔭 **Current Focus:** Mastering **Python**.
 * 🤖 **Methodology:** I utilize **AI-Augmented Development** (Vibe Coding) to rapidly prototype frontend interfaces.
 * 🎨 **Creative Background:** As an ex-cinephile and creative enthusiast, I have extensive experience with open-source tools like **Blender, GIMP, Inkscape, and Kdenlive**.
-* ⚡ **Fun fact:** I love philosophy and psychology, constantly trying to understand the "why" behind the code.
+* ⚡ **Fun fact:** I love book reading.
 
 ---
 
