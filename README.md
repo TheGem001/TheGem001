@@ -6,16 +6,6 @@
 
   *"Developing efficient, scalable solutions for real-world challenges."*
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/saqib-zahid-3a021b318">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-    </a>
-    <a href="mailto:Saqibzahidofficial@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail" alt="Email" />
-    </a>
-  </p>
-</div>
-
 ---
 
 ### 👨‍💻 About Me
@@ -73,18 +63,18 @@ I have committed to coding every single day. Watch this number grow!
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheGem001&show_icons=true&theme=tokyonight&hide_border=true" alt="Saqib's Stats" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheGem001&label=Profile%20Views&color=blue&style=flat" alt="Visitor Count" />
+  <sub>Let's build something amazing together.</sub>
 </div>
 
 ---
 
-<div align="center">
-  <sub>Let's build something amazing together.</sub>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/saqib-zahid-3a021b318">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="mailto:Saqibzahidofficial@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail" alt="Email" />
+    </a>
+  </p>
 </div>
