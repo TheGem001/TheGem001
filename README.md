@@ -5,8 +5,10 @@
   ### 🎓 Software Engineering Student @ IUB | Open Source Enthusiast
 
   *"Developing efficient, scalable solutions for real-world challenges."*
+</div>
 
 ---
+<div align="left">
 
 ### 👨‍💻 About Me
 
@@ -16,6 +18,7 @@ I am a Software Engineering student passionate about turning ideas into reality.
 * 🤖 **Methodology:** I utilize **AI-Augmented Development** (Vibe Coding) to rapidly prototype frontend interfaces.
 * 🎨 **Creative Background:** As an ex-cinephile and creative enthusiast, I have extensive experience with open-source tools like **Blender, GIMP, Inkscape, and Kdenlive**.
 * ⚡ **Fun fact:** I love book reading.
+</div>
 
 ---
 
