@@ -88,9 +88,3 @@ I have committed to coding every single day. Watch this number grow!
 <div align="center">
   <sub>Let's build something amazing together.</sub>
 </div>
-
----
-
-<div align="center">
-  <sub>Let's build something amazing together.</sub>
-</div>
