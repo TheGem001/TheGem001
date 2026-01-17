@@ -31,7 +31,7 @@ I have committed to coding every single day. Watch this number grow!
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks**
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -39,17 +39,18 @@ I have committed to coding every single day. Watch this number grow!
 </div>
 
 **Currently Exploring**
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Supabase-Database-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PWA-Web_Apps-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
 </div>
 
 **Creative Open Source Toolkit**
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Blender-3D-orange?style=for-the-badge&logo=blender" />
   <img src="https://img.shields.io/badge/GIMP-Design-5C5543?style=for-the-badge&logo=gimp" />
   <img src="https://img.shields.io/badge/Kdenlive-Video-46a2da?style=for-the-badge&logo=kdenlive" />
+  <img src="https://img.shields.io/badge/Inkscape-Vector-white?style=for-the-badge&logo=inkscape&logoColor=black" />
 </div>
 
 ---
