@@ -77,11 +77,16 @@ I have committed to coding every single day. Watch this number grow!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheGem001&show_icons=true&theme=tokyonight&hide_border=true" alt="Saqib's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGem001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TheGem001&label=Profile%20Views&color=blue&style=flat" alt="Visitor Count" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Let's build something amazing together.</sub>
 </div>
 
 ---
