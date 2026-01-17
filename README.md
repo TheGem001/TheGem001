@@ -63,12 +63,6 @@ I have committed to coding every single day. Watch this number grow!
 
 ---
 
-<div align="center">
-  <sub>Let's build something amazing together.</sub>
-</div>
-
----
-
   <p align="center">
     <a href="https://www.linkedin.com/in/saqib-zahid-3a021b318">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
@@ -77,4 +71,7 @@ I have committed to coding every single day. Watch this number grow!
       <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail" alt="Email" />
     </a>
   </p>
+</div>
+<div align="center">
+  <sub>Let's build something amazing together.</sub>
 </div>
