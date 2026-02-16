@@ -1,81 +1,91 @@
 <div align="center">
+  
+  # Saqib Zahid (Gem)
+  
+  ### 🚀 Software Engineering Student @ IUB | Open Source Enthusiast
+  
+  <p align="center">
+    <i>"Bridging the gap between creative design and efficient software engineering."</i>
+  </p>
 
-  # Hi there, I'm Saqib Zahid (Gem) 👋
-
-  ### 🎓 Software Engineering Student @ IUB | Open Source Enthusiast
-
-  *"Developing efficient, scalable solutions for real-world challenges."*
+  <a href="https://www.linkedin.com/in/saqib-zahid-3a021b318">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:Saqibzahidofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
----
-<div align="left">
-
-### 👨‍💻 About Me
-
-I am a Software Engineering student passionate about turning ideas into reality. My journey is defined by **dedication**—I am currently on a daily challenge to code and ship projects every single day.
-
-* 🔭 **Current Focus:** Mastering **Python**.
-* 🤖 **Methodology:** I utilize **AI-Augmented Development** (Vibe Coding) to rapidly prototype frontend interfaces.
-* 🎨 **Creative Background:** As an ex-cinephile and creative enthusiast, I have extensive experience with open-source tools like **Blender, GIMP, Inkscape, and Kdenlive**.
-* ⚡ **Fun fact:** I love book reading.
-</div>
+<br />
 
 ---
 
-### 🔥 My Dedication (Daily Streak)
-I have committed to coding every single day. Watch this number grow!
+### 👨‍💻 Professional Summary
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheGem001&theme=tokyonight&hide_border=true" alt="Saqib's GitHub Streak" />
-</div>
+I am a **Software Engineering Undergraduate** with a strong focus on Python development and modern web technologies. I specialize in **AI-Augmented Development**, leveraging LLMs and automated workflows to rapidly prototype and deploy scalable applications.
+
+My background in **Open Source Design tools** allows me to bring a unique perspective to frontend development, ensuring that functionality is matched with intuitive UI/UX.
+
+* 🔭 **Current Focus:** Advanced Python & PWA Development.
+* 🌱 **Learning:** Supabase (Backend-as-a-Service) & Tkinter GUI.
+* ⚡ **Philosophy:** Consistency is key—currently maintaining a daily coding streak to ship features faster.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Technical Arsenal
 
-**Languages & Frameworks**
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
-
-**Currently Exploring**
-<div align="center">
-  <img src="https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Supabase-Database-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PWA-Web_Apps-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
-</div>
-
-**Creative Open Source Toolkit**
-<div align="center">
-  <img src="https://img.shields.io/badge/Blender-3D-orange?style=for-the-badge&logo=blender" />
-  <img src="https://img.shields.io/badge/GIMP-Design-5C5543?style=for-the-badge&logo=gimp" />
-  <img src="https://img.shields.io/badge/Kdenlive-Video-46a2da?style=for-the-badge&logo=kdenlive" />
-  <img src="https://img.shields.io/badge/Inkscape-Vector-white?style=for-the-badge&logo=inkscape&logoColor=black" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="900px">
+      <b>💻 Core Stack</b><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="900px">
+      <b>⚙️ Infrastructure & Tools</b><br/><br/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tkinter-GUI-blue?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="900px">
+      <b>🎨 Design & Prototyping</b><br/><br/>
+      <img src="https://img.shields.io/badge/Blender-orange?style=flat-square&logo=blender" />
+      <img src="https://img.shields.io/badge/Inkscape-white?style=flat-square&logo=inkscape&logoColor=black" />
+      <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=gimp" />
+       <img src="https://img.shields.io/badge/Kdenlive-46a2da?style=flat-square&logo=kdenlive" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🏆 Featured Project
 
-#### 💸 **Splitify**
-*A smart personal finance tracker.*
-> This project represents my journey in building practical applications. It serves as a solution for managing expenses efficiently.
-- **Status:** Active Development
+#### 💸 **[Splitify](https://gem-labs-pk.github.io/Splitify/)**
+> *A smart, offline-first personal finance tracker.*
+
+Splitify is a Progressive Web App (PWA) designed to solve the complexity of shared expenses. Built with a focus on local-first storage and rapid interaction.
+
+* **Role:** Lead Developer
+* **Tech:** JavaScript, Tailwind CSS, PWA (Service Workers), LocalStorage
+* **Status:** 🟢 Active Development
 
 ---
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/saqib-zahid-3a021b318">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-    </a>
-    <a href="mailto:Saqibzahidofficial@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail" alt="Email" />
-    </a>
-  </p>
-</div>
+### 📊 GitHub Activity
 <div align="center">
-  <sub>Let's build something amazing together.</sub>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheGem001&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=3776AB&fire=3776AB&currStreakLabel=3776AB" alt="Saqib's GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <sub><i>"The only way to do great work is to love what you do."</i></sub>
 </div>
